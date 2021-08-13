@@ -1,0 +1,9 @@
+<?php
+
+include "headeruser.php";
+
+?>
+		
+<?php
+include "footeruser.php";
+?>
